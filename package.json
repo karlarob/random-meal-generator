@@ -13,6 +13,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
+    "tailwindcss": "^3.0.23",
     "typescript": "^4.5.5",
     "web-vitals": "^2.1.4"
   },
@@ -39,5 +40,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "react-confetti-explosion": "^1.0.3",
+    "react-random-reveal": "^2.0.0"
   }
 }
